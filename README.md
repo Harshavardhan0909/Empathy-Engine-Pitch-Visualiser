@@ -1,4 +1,4 @@
-# AI  Project
+#  Project
 
 Two AI-powered tools built to enhance sales and customer interactions.
 
